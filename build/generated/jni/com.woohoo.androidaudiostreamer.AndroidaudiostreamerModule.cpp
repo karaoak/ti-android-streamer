@@ -417,7 +417,7 @@ Handle<Value> AndroidaudiostreamerModule::volume(const Arguments& args)
 
 	
 	
-		if (titanium::V8Util::isNaN(args[0]) || args[0]->ToString()->Length() == 0) {
+		if ((titanium::V8Util::isNaN(args[0]) && !args[0]->IsUndefined()) || args[0]->ToString()->Length() == 0) {
 			const char *error = "Invalid value, expected type Number.";
 			LOGE(TAG, error);
 			return titanium::JSException::Error(error);

@@ -1,188 +1,188 @@
-/var/folders/w0/716fh0257xb79k1ny7z9nt_w0000gn/T//trevorfifield/androidaudiostreamer-generated/obj/local/x86/objs/com.woohoo.androidaudiostreamer/com.woohoo.androidaudiostreamer.AndroidaudiostreamerModule.o: \
+/var/folders/rb/j2tpm2wn0pjd68436p3vwqw00000gn/T//Frank/androidaudiostreamer-generated/obj/local/x86/objs/com.woohoo.androidaudiostreamer/com.woohoo.androidaudiostreamer.AndroidaudiostreamerModule.o: \
  jni/com.woohoo.androidaudiostreamer.AndroidaudiostreamerModule.cpp \
  jni/com.woohoo.androidaudiostreamer.AndroidaudiostreamerModule.h \
- /Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/jni.h \
- /Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/sys/cdefs.h \
- /Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/sys/cdefs_elf.h \
- /Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/android/api-level.h \
- /Users/trevorfifield/android-ndk/sources/cxx-stl/stlport/stlport/stdarg.h \
- /Users/trevorfifield/android-ndk/sources/cxx-stl/stlport/stlport/stl/_cprolog.h \
- /Users/trevorfifield/android-ndk/sources/cxx-stl/stlport/stlport/stl/config/features.h \
- /Users/trevorfifield/android-ndk/sources/cxx-stl/stlport/stlport/stl/_stlport_version.h \
- /Users/trevorfifield/android-ndk/sources/cxx-stl/stlport/stlport/stl/config/user_config.h \
- /Users/trevorfifield/android-ndk/sources/cxx-stl/stlport/stlport/stl/config/compat.h \
- /Users/trevorfifield/android-ndk/sources/cxx-stl/stlport/stlport/stl/config/host.h \
- /Users/trevorfifield/android-ndk/sources/cxx-stl/stlport/stlport/stl/config/_system.h \
- /Users/trevorfifield/android-ndk/sources/cxx-stl/stlport/stlport/stl/config/_android.h \
- /Users/trevorfifield/android-ndk/sources/cxx-stl/stlport/stlport/stl/config/_gcc.h \
- /Users/trevorfifield/android-ndk/sources/cxx-stl/stlport/stlport/stl/config/stl_confix.h \
- /Users/trevorfifield/android-ndk/sources/cxx-stl/stlport/stlport/stl/config/_native_headers.h \
- /Users/trevorfifield/android-ndk/sources/cxx-stl/stlport/stlport/stl/_epilog.h \
- /Users/trevorfifield/android-ndk/sources/cxx-stl/stlport/stlport/stl/_config_compat_post.h \
- /Users/trevorfifield/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/android/native/include/Proxy.h \
- /Users/trevorfifield/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/android/native/include/v8.h \
- /Users/trevorfifield/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/android/native/include/v8stdint.h \
- /Users/trevorfifield/android-ndk/sources/cxx-stl/stlport/stlport/stddef.h \
- /Users/trevorfifield/android-ndk/sources/cxx-stl/stlport/stlport/stdio.h \
- /Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/../include/stdio.h \
- /Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/sys/types.h \
- /Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/stdint.h \
- /Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/sys/_types.h \
- /Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/machine/_types.h \
- /Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/linux/posix_types.h \
- /Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/linux/stddef.h \
- /Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/linux/compiler.h \
- /Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/asm/posix_types.h \
- /Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/asm/posix_types_32.h \
- /Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/asm/types.h \
- /Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/linux/types.h \
- /Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/machine/kernel.h \
- /Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/sys/sysmacros.h \
- /Users/trevorfifield/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/android/native/include/JavaObject.h \
- /Users/trevorfifield/android-ndk/sources/cxx-stl/stlport/stlport/assert.h \
- /Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/../include/assert.h \
- /Users/trevorfifield/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/android/native/include/EventEmitter.h \
- /Users/trevorfifield/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/android/native/include/NativeObject.h \
- /Users/trevorfifield/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/android/native/include/AndroidUtil.h \
- /Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/android/log.h \
- /Users/trevorfifield/android-ndk/sources/cxx-stl/stlport/stlport/stdlib.h \
- /Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/../include/stdlib.h \
- /Users/trevorfifield/android-ndk/sources/cxx-stl/stlport/stlport/string.h \
- /Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/../include/string.h \
- /Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/malloc.h \
- /Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/alloca.h \
- /Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/strings.h \
- /Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/memory.h \
- /Users/trevorfifield/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/android/native/include/EventEmitter.h \
- /Users/trevorfifield/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/android/native/include/JNIUtil.h \
- /Users/trevorfifield/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/android/native/include/AndroidUtil.h \
- /Users/trevorfifield/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/android/native/include/JSException.h \
- /Users/trevorfifield/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/android/native/include/ProxyFactory.h \
- /Users/trevorfifield/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/android/native/include/TypeConverter.h \
- /Users/trevorfifield/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/android/native/include/V8Util.h \
- /Users/trevorfifield/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/android/native/include/org.appcelerator.kroll.KrollModule.h \
- /Users/trevorfifield/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/android/native/include/Proxy.h
+ /Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/jni.h \
+ /Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/sys/cdefs.h \
+ /Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/sys/cdefs_elf.h \
+ /Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/android/api-level.h \
+ /Applications/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stdarg.h \
+ /Applications/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/_cprolog.h \
+ /Applications/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/config/features.h \
+ /Applications/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/_stlport_version.h \
+ /Applications/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/config/user_config.h \
+ /Applications/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/config/compat.h \
+ /Applications/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/config/host.h \
+ /Applications/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/config/_system.h \
+ /Applications/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/config/_android.h \
+ /Applications/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/config/_gcc.h \
+ /Applications/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/config/stl_confix.h \
+ /Applications/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/config/_native_headers.h \
+ /Applications/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/_epilog.h \
+ /Applications/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/_config_compat_post.h \
+ /Users/Frank/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.0.v20160216073819/android/native/include/Proxy.h \
+ /Users/Frank/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.0.v20160216073819/android/native/include/v8.h \
+ /Users/Frank/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.0.v20160216073819/android/native/include/v8stdint.h \
+ /Applications/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stddef.h \
+ /Applications/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stdio.h \
+ /Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/../include/stdio.h \
+ /Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/sys/types.h \
+ /Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/stdint.h \
+ /Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/sys/_types.h \
+ /Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/machine/_types.h \
+ /Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/linux/posix_types.h \
+ /Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/linux/stddef.h \
+ /Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/linux/compiler.h \
+ /Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/asm/posix_types.h \
+ /Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/asm/posix_types_32.h \
+ /Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/asm/types.h \
+ /Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/linux/types.h \
+ /Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/machine/kernel.h \
+ /Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/sys/sysmacros.h \
+ /Users/Frank/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.0.v20160216073819/android/native/include/JavaObject.h \
+ /Applications/android-ndk-r10e/sources/cxx-stl/stlport/stlport/assert.h \
+ /Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/../include/assert.h \
+ /Users/Frank/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.0.v20160216073819/android/native/include/EventEmitter.h \
+ /Users/Frank/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.0.v20160216073819/android/native/include/NativeObject.h \
+ /Users/Frank/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.0.v20160216073819/android/native/include/AndroidUtil.h \
+ /Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/android/log.h \
+ /Applications/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stdlib.h \
+ /Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/../include/stdlib.h \
+ /Applications/android-ndk-r10e/sources/cxx-stl/stlport/stlport/string.h \
+ /Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/../include/string.h \
+ /Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/malloc.h \
+ /Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/alloca.h \
+ /Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/strings.h \
+ /Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/memory.h \
+ /Users/Frank/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.0.v20160216073819/android/native/include/EventEmitter.h \
+ /Users/Frank/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.0.v20160216073819/android/native/include/JNIUtil.h \
+ /Users/Frank/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.0.v20160216073819/android/native/include/AndroidUtil.h \
+ /Users/Frank/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.0.v20160216073819/android/native/include/JSException.h \
+ /Users/Frank/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.0.v20160216073819/android/native/include/ProxyFactory.h \
+ /Users/Frank/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.0.v20160216073819/android/native/include/TypeConverter.h \
+ /Users/Frank/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.0.v20160216073819/android/native/include/V8Util.h \
+ /Users/Frank/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.0.v20160216073819/android/native/include/org.appcelerator.kroll.KrollModule.h \
+ /Users/Frank/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.0.v20160216073819/android/native/include/Proxy.h
 
 jni/com.woohoo.androidaudiostreamer.AndroidaudiostreamerModule.h:
 
-/Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/jni.h:
+/Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/jni.h:
 
-/Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/sys/cdefs.h:
+/Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/sys/cdefs.h:
 
-/Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/sys/cdefs_elf.h:
+/Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/sys/cdefs_elf.h:
 
-/Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/android/api-level.h:
+/Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/android/api-level.h:
 
-/Users/trevorfifield/android-ndk/sources/cxx-stl/stlport/stlport/stdarg.h:
+/Applications/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stdarg.h:
 
-/Users/trevorfifield/android-ndk/sources/cxx-stl/stlport/stlport/stl/_cprolog.h:
+/Applications/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/_cprolog.h:
 
-/Users/trevorfifield/android-ndk/sources/cxx-stl/stlport/stlport/stl/config/features.h:
+/Applications/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/config/features.h:
 
-/Users/trevorfifield/android-ndk/sources/cxx-stl/stlport/stlport/stl/_stlport_version.h:
+/Applications/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/_stlport_version.h:
 
-/Users/trevorfifield/android-ndk/sources/cxx-stl/stlport/stlport/stl/config/user_config.h:
+/Applications/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/config/user_config.h:
 
-/Users/trevorfifield/android-ndk/sources/cxx-stl/stlport/stlport/stl/config/compat.h:
+/Applications/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/config/compat.h:
 
-/Users/trevorfifield/android-ndk/sources/cxx-stl/stlport/stlport/stl/config/host.h:
+/Applications/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/config/host.h:
 
-/Users/trevorfifield/android-ndk/sources/cxx-stl/stlport/stlport/stl/config/_system.h:
+/Applications/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/config/_system.h:
 
-/Users/trevorfifield/android-ndk/sources/cxx-stl/stlport/stlport/stl/config/_android.h:
+/Applications/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/config/_android.h:
 
-/Users/trevorfifield/android-ndk/sources/cxx-stl/stlport/stlport/stl/config/_gcc.h:
+/Applications/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/config/_gcc.h:
 
-/Users/trevorfifield/android-ndk/sources/cxx-stl/stlport/stlport/stl/config/stl_confix.h:
+/Applications/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/config/stl_confix.h:
 
-/Users/trevorfifield/android-ndk/sources/cxx-stl/stlport/stlport/stl/config/_native_headers.h:
+/Applications/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/config/_native_headers.h:
 
-/Users/trevorfifield/android-ndk/sources/cxx-stl/stlport/stlport/stl/_epilog.h:
+/Applications/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/_epilog.h:
 
-/Users/trevorfifield/android-ndk/sources/cxx-stl/stlport/stlport/stl/_config_compat_post.h:
+/Applications/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/_config_compat_post.h:
 
-/Users/trevorfifield/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/android/native/include/Proxy.h:
+/Users/Frank/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.0.v20160216073819/android/native/include/Proxy.h:
 
-/Users/trevorfifield/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/android/native/include/v8.h:
+/Users/Frank/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.0.v20160216073819/android/native/include/v8.h:
 
-/Users/trevorfifield/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/android/native/include/v8stdint.h:
+/Users/Frank/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.0.v20160216073819/android/native/include/v8stdint.h:
 
-/Users/trevorfifield/android-ndk/sources/cxx-stl/stlport/stlport/stddef.h:
+/Applications/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stddef.h:
 
-/Users/trevorfifield/android-ndk/sources/cxx-stl/stlport/stlport/stdio.h:
+/Applications/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stdio.h:
 
-/Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/../include/stdio.h:
+/Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/../include/stdio.h:
 
-/Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/sys/types.h:
+/Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/sys/types.h:
 
-/Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/stdint.h:
+/Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/stdint.h:
 
-/Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/sys/_types.h:
+/Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/sys/_types.h:
 
-/Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/machine/_types.h:
+/Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/machine/_types.h:
 
-/Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/linux/posix_types.h:
+/Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/linux/posix_types.h:
 
-/Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/linux/stddef.h:
+/Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/linux/stddef.h:
 
-/Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/linux/compiler.h:
+/Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/linux/compiler.h:
 
-/Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/asm/posix_types.h:
+/Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/asm/posix_types.h:
 
-/Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/asm/posix_types_32.h:
+/Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/asm/posix_types_32.h:
 
-/Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/asm/types.h:
+/Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/asm/types.h:
 
-/Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/linux/types.h:
+/Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/linux/types.h:
 
-/Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/machine/kernel.h:
+/Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/machine/kernel.h:
 
-/Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/sys/sysmacros.h:
+/Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/sys/sysmacros.h:
 
-/Users/trevorfifield/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/android/native/include/JavaObject.h:
+/Users/Frank/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.0.v20160216073819/android/native/include/JavaObject.h:
 
-/Users/trevorfifield/android-ndk/sources/cxx-stl/stlport/stlport/assert.h:
+/Applications/android-ndk-r10e/sources/cxx-stl/stlport/stlport/assert.h:
 
-/Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/../include/assert.h:
+/Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/../include/assert.h:
 
-/Users/trevorfifield/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/android/native/include/EventEmitter.h:
+/Users/Frank/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.0.v20160216073819/android/native/include/EventEmitter.h:
 
-/Users/trevorfifield/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/android/native/include/NativeObject.h:
+/Users/Frank/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.0.v20160216073819/android/native/include/NativeObject.h:
 
-/Users/trevorfifield/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/android/native/include/AndroidUtil.h:
+/Users/Frank/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.0.v20160216073819/android/native/include/AndroidUtil.h:
 
-/Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/android/log.h:
+/Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/android/log.h:
 
-/Users/trevorfifield/android-ndk/sources/cxx-stl/stlport/stlport/stdlib.h:
+/Applications/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stdlib.h:
 
-/Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/../include/stdlib.h:
+/Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/../include/stdlib.h:
 
-/Users/trevorfifield/android-ndk/sources/cxx-stl/stlport/stlport/string.h:
+/Applications/android-ndk-r10e/sources/cxx-stl/stlport/stlport/string.h:
 
-/Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/../include/string.h:
+/Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/../include/string.h:
 
-/Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/malloc.h:
+/Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/malloc.h:
 
-/Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/alloca.h:
+/Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/alloca.h:
 
-/Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/strings.h:
+/Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/strings.h:
 
-/Users/trevorfifield/android-ndk/platforms/android-9/arch-x86/usr/include/memory.h:
+/Applications/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/memory.h:
 
-/Users/trevorfifield/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/android/native/include/EventEmitter.h:
+/Users/Frank/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.0.v20160216073819/android/native/include/EventEmitter.h:
 
-/Users/trevorfifield/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/android/native/include/JNIUtil.h:
+/Users/Frank/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.0.v20160216073819/android/native/include/JNIUtil.h:
 
-/Users/trevorfifield/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/android/native/include/AndroidUtil.h:
+/Users/Frank/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.0.v20160216073819/android/native/include/AndroidUtil.h:
 
-/Users/trevorfifield/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/android/native/include/JSException.h:
+/Users/Frank/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.0.v20160216073819/android/native/include/JSException.h:
 
-/Users/trevorfifield/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/android/native/include/ProxyFactory.h:
+/Users/Frank/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.0.v20160216073819/android/native/include/ProxyFactory.h:
 
-/Users/trevorfifield/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/android/native/include/TypeConverter.h:
+/Users/Frank/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.0.v20160216073819/android/native/include/TypeConverter.h:
 
-/Users/trevorfifield/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/android/native/include/V8Util.h:
+/Users/Frank/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.0.v20160216073819/android/native/include/V8Util.h:
 
-/Users/trevorfifield/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/android/native/include/org.appcelerator.kroll.KrollModule.h:
+/Users/Frank/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.0.v20160216073819/android/native/include/org.appcelerator.kroll.KrollModule.h:
 
-/Users/trevorfifield/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/android/native/include/Proxy.h:
+/Users/Frank/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.0.v20160216073819/android/native/include/Proxy.h:
